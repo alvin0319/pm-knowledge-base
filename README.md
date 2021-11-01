@@ -5,8 +5,14 @@ This is a repository for Server owners to let the owners to know the basic knowl
 This documentation is based on PM4 (according to my experience). (PocketMine-MP API4)
 
 # Table of contents
+- [Table of contents](#table-of-contents)
+  * [Why PocketMine?](#why-pocketmine)
+  * [Skyblock Server](#skyblock-server)
+  * [Factions Server](#factions-server)
+  * [Minigames Server](#minigames-server)
+  * [Connecting PocketMine servers using WaterdogPE](#connecting-pocketmine-servers-using-waterdogpe)
 
-<!-- TODO -->
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Why PocketMine?
 
