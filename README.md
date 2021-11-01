@@ -2,7 +2,7 @@
 
 This is a repository for Server owners to let the owners to know the basic knowledge about PocketMine-MP
 
-This documentation is based on PM4. (PocketMine-MP API4)
+This documentation is based on PM4 (according to my experience). (PocketMine-MP API4)
 
 # Table of contents
 
